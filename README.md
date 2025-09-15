@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexay Mehra</h1>
 <h3 align="center">Ambitious student with experience in embedded systems, data structures, digital design, and quantum computing.</h3>
 
-- 🔭 Currently working on: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
+- 🔭 Currently working on: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) and [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
 
 - 🌱 Currently learning **Embedded Systems, Quantum Systems Engineering, Electric Circuits**
 
