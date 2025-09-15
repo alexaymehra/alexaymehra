@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning: **Embedded Systems | Quantum Systems Engineering | Electric Circuits**
 
-- 📫 How to reach me: **anmehra@ncsu.edu**
+- 📫 How to reach me: anmehra@ncsu.edu
 
 - 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/alexay-mehra-6a3560326)
 
