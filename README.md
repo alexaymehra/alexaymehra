@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alexay Mehra</h1>
+<h1 align="center">Hi, I'm Alexay Mehra</h1>
 <h3 align="center">Ambitious student with experience in embedded systems, data structures, digital design, and quantum computing.</h3>
 
-- 🔭 I’m currently working on [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation)
+- 🔭 Currently working on: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
 
-- 🌱 I’m currently learning **Embedded Systems, Quantum Systems Engineering**
+- 🌱 Currently learning **Embedded Systems, Quantum Systems Engineering, Electric Circuits**
 
-- 📫 How to reach me **alexay.mehra@ncsu.edu**
+- 📫 How to reach me: **anmehra@ncsu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
