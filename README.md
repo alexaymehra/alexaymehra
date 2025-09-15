@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) | [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
 
-- 🌱 Currently learning: **Embedded Systems, Quantum Systems Engineering, Electric Circuits**
+- 🌱 Currently learning: **Embedded Systems | Quantum Systems Engineering | Electric Circuits**
 
 - 📫 How to reach me: **anmehra@ncsu.edu**
 
