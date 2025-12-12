@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Alexay Mehra</h1>
-<h3 align="center">I'm an ambitious student with experience in embedded systems, data structures, digital design, and quantum computing, eager to apply strong technical and problem-solving skills to cutting edge computing challenges.</h3>
+<h3 align="center">I'm an ambitious student with experience in computer architecture, digital design, and embedded systems, eager to apply strong technical and problem-solving skills to cutting edge computing challenges.</h3>
 
-- 🔭 Currently working on: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) | [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
+- Currently working on:
 
-- 🌱 Currently learning: **Embedded Systems | Quantum Systems Engineering | Electric Circuits**
+- Projects: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) | [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
 
-- 📫 How to reach me: anmehra@ncsu.edu
 
-- 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/alexay-mehra/)
+- How to reach me: anmehra@ncsu.edu
+
+- Connect with me: [LinkedIn](https://www.linkedin.com/in/alexay-mehra/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
