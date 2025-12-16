@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexay Mehra</h1>
 <h3 align="center">I'm an ambitious student with experience in computer architecture, digital design, and embedded systems, eager to apply strong technical and problem-solving skills to cutting edge computing challenges.</h3>
 
-- Currently working on:
+- Currently working on: Verilog
 
 - Projects: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) | [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
 
