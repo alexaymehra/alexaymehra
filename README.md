@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Alexay Mehra</h1>
 <h3 align="center">I'm an ambitious student with experience in computer architecture, digital design, and embedded systems, eager to apply strong technical and problem-solving skills to cutting edge computing challenges.</h3>
 
-- Currently working on: [8-Bit CPU](https://github.com/alexaymehra/cpu-8-bit)
-
-- Projects: [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) | [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
-
+- Projects: [8-Bit CPU](https://github.com/alexaymehra/cpu-8-bit) | [MSP430 Embedded Car](https://github.com/alexaymehra/msp430-embedded-car) | [Hybrid Quantum Simulation](https://github.com/alexaymehra/hybrid-quantum-simulation) 
 
 - How to reach me: anmehra@ncsu.edu
 
